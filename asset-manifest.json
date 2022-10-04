@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.fc0706bd.css",
-    "main.js": "/static/js/main.f5dac7e7.js",
+    "main.js": "/static/js/main.ef0a7c65.js",
     "static/media/Everton.svg": "/static/media/Everton.8859ced9102e747dfa9f7ed964a80aa4.svg",
     "index.html": "/index.html",
     "main.fc0706bd.css.map": "/static/css/main.fc0706bd.css.map",
-    "main.f5dac7e7.js.map": "/static/js/main.f5dac7e7.js.map"
+    "main.ef0a7c65.js.map": "/static/js/main.ef0a7c65.js.map"
   },
   "entrypoints": [
     "static/css/main.fc0706bd.css",
-    "static/js/main.f5dac7e7.js"
+    "static/js/main.ef0a7c65.js"
   ]
 }
