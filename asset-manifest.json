@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fc0706bd.css",
-    "main.js": "/static/js/main.a321ce80.js",
+    "main.js": "/static/js/main.67484b99.js",
     "static/media/Everton.svg": "/static/media/Everton.8859ced9102e747dfa9f7ed964a80aa4.svg",
     "static/media/gameplay.png": "/static/media/gameplay.9adbca8c93a825596d55.png",
     "static/media/gobarber.png": "/static/media/gobarber.f9876bed2195ec379087.png",
@@ -11,10 +11,10 @@
     "static/media/dtmoney.png": "/static/media/dtmoney.a6873fd4e30acfd3ec1a.png",
     "index.html": "/index.html",
     "main.fc0706bd.css.map": "/static/css/main.fc0706bd.css.map",
-    "main.a321ce80.js.map": "/static/js/main.a321ce80.js.map"
+    "main.67484b99.js.map": "/static/js/main.67484b99.js.map"
   },
   "entrypoints": [
     "static/css/main.fc0706bd.css",
-    "static/js/main.a321ce80.js"
+    "static/js/main.67484b99.js"
   ]
 }
